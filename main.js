@@ -118,8 +118,8 @@ function backgroundImg(bgX) {
 function drawStartScreen() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   backgroundImg(0);
-  const imageWidth = 473;
-  const imageHeight = 316;
+  const imageWidth = 500;
+  const imageHeight = 500;
   const imageX = canvas.width / 2 - imageWidth / 2;
   const imageY = canvas.height / 2 - imageHeight / 2;
   ctx.drawImage(startImage, imageX, imageY, imageWidth, imageHeight);
