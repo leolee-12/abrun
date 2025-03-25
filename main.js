@@ -34,7 +34,7 @@ const bgImage = new Image();
 bgImage.src = "./images/background2.png";
 // (2) 게임 시작
 const startImage = new Image();
-startImage.src = "./images/gamestart.png";
+startImage.src = "./images/gamestart2.png";
 // (3) 게임 오버
 const gameoverImage = new Image();
 gameoverImage.src = "./images/gameover.png";
