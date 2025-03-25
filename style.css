@@ -1,6 +1,6 @@
 /* body styling */
 body {
-    background-color: #f0f0f0;
+    background-color: #7b68ee;
     font-size: 16px;
     line-height: 1.6;
     margin: 0;
@@ -25,6 +25,7 @@ body {
   
   /* 현재점수 */
   #score {
+    font-color: #E6E6FA;
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
